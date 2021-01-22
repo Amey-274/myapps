@@ -1,6 +1,6 @@
 *.log
 dir/
 static/dir/
-
+file/
 file.txt
 this 
