@@ -9,4 +9,5 @@ def name1():
 
 
 def hello():
+    print("hello")
     return 
