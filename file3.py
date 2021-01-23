@@ -10,3 +10,6 @@ def name1():
 
 def func():
     return "hello World"
+
+def func1():
+    return "hello1"
