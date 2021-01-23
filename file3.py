@@ -7,7 +7,3 @@ def name():
 def name1():
     print("hello")
 
-
-def hello():
-    print("hello")
-    return 
