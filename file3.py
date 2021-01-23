@@ -7,3 +7,6 @@ def name():
 def name1():
     print("hello")
 
+
+def func():
+    return "hello World"
